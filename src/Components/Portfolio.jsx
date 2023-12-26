@@ -45,13 +45,13 @@ const projectList = [
   {
     title: "My github acc",
     description:
-      "upload all my github repo here ",
+      "I upload all my github repo here ",
     url: "https://github.com/Shigraf-Khalid",
   },
   {
     title: "My youtube profile",
     description:
-      "upload all my youtube video in it ",
+      "upload all my youtube videos in this youtube channel ",
     url: "https://www.youtube.com/shigrafkhalid",
   },
 ];

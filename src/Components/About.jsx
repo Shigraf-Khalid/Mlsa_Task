@@ -32,9 +32,9 @@ const description =
  */
 const skillsList = [
   "Social Media Mangment",
-  "Analysis",
+  "Marketing Analysis",
   "R and SQL",
-  "SEM",
+  "SEO and SEM",
   "E-mail Marketing",
   "Graphic design",
 ];
