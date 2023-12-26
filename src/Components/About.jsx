@@ -16,26 +16,26 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/pic.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "simple background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello, I'm Shigraf Khalid, a dedicated engineering student with a strong penchant for technology and digital marketing. With 1.5 years of hands-on experience in the digital marketing arena and certifications from Google and Coursera, I'm deeply committed to pushing the boundaries of what's possible in this ever-evolving field. Beyond my studies, I've crafted a track record of impactful projects in data analysis using R and SQL. These projects have honed my analytical skills and provided me with valuable insights into data-driven decision-making. As a public speaker, I use my communication skills to share knowledge and inspire others. Currently serving as the Campus Lead Ambassador for the CISCO community in Pakistan, I'm passionate about fostering tech collaboration and knowledge exchange. Let's connect and explore ways to innovate and grow together in the realms of engineering, technology, and digital marketing.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Social Media Mangment",
+  "Analysis",
+  "R ans SQL",
+  "SEM",
+  "E-mail Marketing",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Hello, I'm Shigraf Khalid, a dedicated engineering student with a strong penchant for technology and digital marketing. With 1.5 years of hands-on experience in the digital marketing arena and certifications from Google and Coursera, I'm deeply committed to pushing the boundaries of what's possible in this ever-evolving field. Beyond my studies, I've crafted a track record of impactful projects in data analysis using R and SQL. These projects have honed my analytical skills and provided me with valuable insights into data-driven decision-making. As a public speaker, I use my communication skills to share knowledge and inspire others. Currently serving as the Campus Lead Ambassador for the CISCO community in Pakistan, I'm passionate about fostering tech collaboration and knowledge exchange. Let's connect and explore ways to innovate and grow together in the realms of engineering, technology, and digital marketing.";
 
 const About = () => {
   return (
